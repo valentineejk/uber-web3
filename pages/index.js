@@ -16,7 +16,7 @@ export default function Home() {
       <Navbar />
       <div className={style.main}>
         <Map />
-        jabby
+
       </div>
       <div className={style.rideRequestContainer}>
         <div className={style.rideRrquest} >
