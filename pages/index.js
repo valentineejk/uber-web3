@@ -19,7 +19,7 @@ export default function Home() {
 
       </div>
       <div className={style.rideRequestContainer}>
-        <div className={style.rideRrquest} >
+        <div className={style.rideRequest} >
           <LocationPicker />
           {/* confirm ride */}
         </div>
