@@ -25,7 +25,7 @@ const Navbar=() => {
                 <div className={style.logo}>
                     Uber
                 </div>
-                <div className={style.menuItem}>Ride</div>
+                <div className={style.menuItem}>Ridee</div>
                 <div className={style.menuItem}>Drive</div>
                 <div className={style.menuItem}>More</div>
             </div>
